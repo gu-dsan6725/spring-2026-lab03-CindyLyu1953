@@ -36,8 +36,8 @@ Thumbs.db
 # Project specific
 .scratchpad/
 logs/
-output/
-*.pkl
+# output/
+# *.pkl
 *.joblib
 
 # Claude Code local settings
